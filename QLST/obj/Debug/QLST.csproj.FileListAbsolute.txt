@@ -1,0 +1,77 @@
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\bin\Debug\QLST.exe.config
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\bin\Debug\QLST.exe
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\bin\Debug\QLST.pdb
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.Form_Main.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.csproj.GenerateResource.Cache
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.exe
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.pdb
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.Flat_button.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.csprojResolveAssemblyReference.cache
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.UC.BanHang.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.UC.HangHoa.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.UC.KhachHang.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.UC.Kho.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.UC.NhanVien.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.UC.NhapHang.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.UC.ThongKe.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.UC.TimKiem.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+F:\nam3_ki2\tt nhom\code c#\QLST\QLST\obj\Debug\QLST.Form_dangnhap.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\bin\Debug\QLST.exe.config
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.exe
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.pdb
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\bin\Debug\QLST.exe
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\bin\Debug\QLST.pdb
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.csprojResolveAssemblyReference.cache
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.Flat_button.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.Form_Main.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.Form_dangnhap.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.UC.BanHang.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.UC.HangHoa.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.UC.KhachHang.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.UC.Kho.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.UC.NhanVien.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.UC.NhapHang.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.UC.ThongKe.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.UC.TimKiem.resources
+F:\nam3_ki2\tt nhom\quanlisieuthi\QLST\QLST\obj\Debug\QLST.csproj.GenerateResource.Cache
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\bin\Debug\QLST.exe.config
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.exe
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.pdb
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\bin\Debug\QLST.exe
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\bin\Debug\QLST.pdb
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.Flat_button.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.Form_Main.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.Form_dangnhap.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.Properties.Resources.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.BanHang.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.HangHoa.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.KhachHang.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.Kho.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.NhanVien.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.NhapHang.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.ThongKe.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.TimKiem.resources
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.csproj.GenerateResource.Cache
+E:\NAM 3_KI II\TT_NHOM\QLST-master\QLST-master\QLST\obj\Debug\QLST.csprojResolveAssemblyReference.cache
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.csprojAssemblyReference.cache
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.Flat_button.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.Form_Main.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.Form_dangnhap.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.Properties.Resources.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.BanHang.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.HangHoa.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.KhachHang.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.Kho.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.NhanVien.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.NhapHang.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.ThongKe.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.UC.TimKiem.resources
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.csproj.GenerateResource.cache
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.csproj.CoreCompileInputs.cache
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.exe
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\obj\Debug\QLST.pdb
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\bin\Debug\QLST.exe.config
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\bin\Debug\QLST.exe
+C:\Users\Mingg\Desktop\TTN\QLST-master\QLST-master\QLST\bin\Debug\QLST.pdb
